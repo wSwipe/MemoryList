@@ -1,27 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Swipe",
         "link": "https://www.youtube.com/@wSwipeGD"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
+        "role": "owner",
+        "name": "sapphire",
         "link": "https://www.youtube.com/@z.sapphire"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "Yves",
         "link": "https://www.youtube.com/@YvesGMD"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@"
     }
 ]
